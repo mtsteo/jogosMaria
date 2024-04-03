@@ -1,0 +1,15 @@
+
+  .letter {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    position: absolute;
+    border-radius: 2rem;
+    background-color: pink;
+    width: 60px;
+    height: 60px;
+  }
+  

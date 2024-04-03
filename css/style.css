@@ -1,0 +1,10 @@
+@import url(./letterClick.css);
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
+
+body {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+ 
+  background-image: url("https://acdn.mitiendanube.com/stores/001/630/548/products/2269c1d9a4a0e8619d036c120fc2977b-c8a52b6f5d4901599f16249035138457-1024-1024.jpg");
+  background-size: 100%;
+}
